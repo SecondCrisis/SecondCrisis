@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SecondCrisis
+- 👀 I’m interested in Java 
+- 🌱 I’m currently learning Java
